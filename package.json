@@ -1,0 +1,14 @@
+{
+  "name": "checkpakage",
+  "version": "1.0.0",
+  "description": "checking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suvansh",
+  "license": "ISC",
+  "dependencies": {
+    "password-generator-suvansh": "^1.0.0"
+  }
+}
